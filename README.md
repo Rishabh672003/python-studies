@@ -1,2 +1,2 @@
-# python-studies
-this has my python code which i have written to learn python
+# python-study
+learning python so here are the code i have written for studying it
